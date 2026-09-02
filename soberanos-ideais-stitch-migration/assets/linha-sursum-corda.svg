@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 180" role="img" aria-labelledby="title desc">
+  <title id="title">Linha Sursum Corda</title>
+  <desc id="desc">Linha dourada fina em trajetória ascendente.</desc>
+  <path d="M40 148 C390 140 680 104 920 88 C1160 72 1370 43 1560 24" fill="none" stroke="#D9A62E" stroke-width="2"/>
+</svg>
